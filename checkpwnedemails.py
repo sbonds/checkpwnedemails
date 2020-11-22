@@ -1,8 +1,10 @@
 import sys
-import requests
 import json
 from time import sleep
 from argparse import ArgumentParser
+
+import requests
+
 __author__ = "Alexan Mardigian"
 __version__ = "1.2.3"
 
